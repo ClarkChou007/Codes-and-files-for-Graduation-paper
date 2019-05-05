@@ -1,0 +1,804 @@
+AT1G01620	response to water deprivation
+AT1G01620	response to water deprivation
+AT1G02205	response to water deprivation
+AT1G02205	response to water deprivation
+AT1G02730	response to water deprivation
+AT1G02730	response to water deprivation
+AT1G02750	response to water deprivation
+AT1G02750	response to water deprivation
+AT1G02820	response to water deprivation
+AT1G02820	response to water deprivation
+AT1G02930	response to water deprivation
+AT1G02930	response to water deprivation
+AT1G04400	response to water deprivation
+AT1G04400	response to water deprivation
+AT1G05180	response to water deprivation
+AT1G05180	response to water deprivation
+AT1G05680	cellular response to water deprivation
+AT1G05680	cellular response to water deprivation
+AT1G05680	cellular response to water deprivation
+AT1G05850	response to water deprivation
+AT1G05850	response to water deprivation
+AT1G06770	response to water deprivation
+AT1G06770	response to water deprivation
+AT1G07000	response to water deprivation
+AT1G07000	response to water deprivation
+AT1G08720	response to water deprivation
+AT1G08720	response to water deprivation
+AT1G08810	response to water deprivation
+AT1G08810	response to water deprivation
+AT1G08920	response to water deprivation
+AT1G08920	response to water deprivation
+AT1G08930	response to water deprivation
+AT1G08930	response to water deprivation
+AT1G09340	cellular response to water deprivation
+AT1G09340	cellular response to water deprivation
+AT1G09340	cellular response to water deprivation
+AT1G10370	negative regulation of response to water deprivation
+AT1G10370	negative regulation of response to water deprivation
+AT1G11755	response to water deprivation
+AT1G11755	response to water deprivation
+AT1G12110	response to water deprivation
+AT1G12110	response to water deprivation
+AT1G12610	response to water deprivation
+AT1G12610	response to water deprivation
+AT1G13740	response to water deprivation
+AT1G13740	response to water deprivation
+AT1G14350	positive regulation of response to water deprivation
+AT1G14350	positive regulation of response to water deprivation
+AT1G15360	response to water deprivation
+AT1G15360	response to water deprivation
+AT1G15690	response to water deprivation
+AT1G15690	response to water deprivation
+AT1G16060	response to water deprivation
+AT1G16060	response to water deprivation
+AT1G16370	cellular response to water deprivation
+AT1G16370	cellular response to water deprivation
+AT1G16370	cellular response to water deprivation
+AT1G17950	response to water deprivation
+AT1G17950	response to water deprivation
+AT1G18390	cellular response to water deprivation
+AT1G18390	cellular response to water deprivation
+AT1G18390	cellular response to water deprivation
+AT1G19120	response to water deprivation
+AT1G19120	response to water deprivation
+AT1G20440	response to water deprivation
+AT1G20440	response to water deprivation
+AT1G20450	response to water deprivation
+AT1G20450	response to water deprivation
+AT1G20450	response to water deprivation
+AT1G20450	response to water deprivation
+AT1G22190	response to water deprivation
+AT1G22190	response to water deprivation
+AT1G22810	cellular response to water deprivation
+AT1G22810	cellular response to water deprivation
+AT1G22810	cellular response to water deprivation
+AT1G27320	response to water deprivation
+AT1G27320	response to water deprivation
+AT1G27730	response to water deprivation
+AT1G27730	response to water deprivation
+AT1G27730	response to water deprivation
+AT1G27730	response to water deprivation
+AT1G27880	cellular response to water deprivation
+AT1G27880	cellular response to water deprivation
+AT1G27880	cellular response to water deprivation
+AT1G28520	response to water deprivation
+AT1G28520	response to water deprivation
+AT1G29395	cellular response to water deprivation
+AT1G29395	cellular response to water deprivation
+AT1G29395	cellular response to water deprivation
+AT1G30100	response to water deprivation
+AT1G30100	response to water deprivation
+AT1G30270	response to water deprivation
+AT1G30270	response to water deprivation
+AT1G32230	response to water deprivation
+AT1G32230	response to water deprivation
+AT1G32560	response to water deprivation
+AT1G32560	response to water deprivation
+AT1G33240	cellular response to water deprivation
+AT1G33240	response to water deprivation
+AT1G33240	response to water deprivation
+AT1G33240	cellular response to water deprivation
+AT1G33240	cellular response to water deprivation
+AT1G33560	response to water deprivation
+AT1G33560	response to water deprivation
+AT1G35720	response to water deprivation
+AT1G35720	response to water deprivation
+AT1G43160	response to water deprivation
+AT1G43160	response to water deprivation
+AT1G45249	response to water deprivation
+AT1G45249	response to water deprivation
+AT1G45249	response to water deprivation
+AT1G45249	response to water deprivation
+AT1G45249	response to water deprivation
+AT1G45249	response to water deprivation
+AT1G46768	response to water deprivation
+AT1G46768	response to water deprivation
+AT1G47128	response to water deprivation
+AT1G47128	response to water deprivation
+AT1G52340	response to water deprivation
+AT1G52340	response to water deprivation
+AT1G52340	response to water deprivation
+AT1G52340	response to water deprivation
+AT1G52400	response to water deprivation
+AT1G52400	response to water deprivation
+AT1G52690	response to water deprivation
+AT1G52690	response to water deprivation
+AT1G52890	response to water deprivation
+AT1G52890	response to water deprivation
+AT1G54160	response to water deprivation
+AT1G54160	response to water deprivation
+AT1G56280	response to water deprivation
+AT1G56280	response to water deprivation
+AT1G56280	response to water deprivation
+AT1G56280	response to water deprivation
+AT1G56600	response to water deprivation
+AT1G56600	response to water deprivation
+AT1G56600	response to water deprivation
+AT1G56600	response to water deprivation
+AT1G58440	response to water deprivation
+AT1G58440	response to water deprivation
+AT1G60650	response to water deprivation
+AT1G60650	response to water deprivation
+AT1G61660	cellular response to water deprivation
+AT1G61660	cellular response to water deprivation
+AT1G61660	cellular response to water deprivation
+AT1G62280	response to water deprivation
+AT1G62280	response to water deprivation
+AT1G64660	cellular response to water deprivation
+AT1G64660	cellular response to water deprivation
+AT1G64660	cellular response to water deprivation
+AT1G67360	positive regulation of response to water deprivation
+AT1G67360	positive regulation of response to water deprivation
+AT1G68010	cellular response to water deprivation
+AT1G68010	cellular response to water deprivation
+AT1G68010	cellular response to water deprivation
+AT1G68090	response to water deprivation
+AT1G68090	response to water deprivation
+AT1G69270	response to water deprivation
+AT1G69270	response to water deprivation
+AT1G69310	response to water deprivation
+AT1G69310	response to water deprivation
+AT1G69600	response to water deprivation
+AT1G69600	response to water deprivation
+AT1G69700	response to water deprivation
+AT1G69700	response to water deprivation
+AT1G73330	response to water deprivation
+AT1G73330	response to water deprivation
+AT1G74520	response to water deprivation
+AT1G74520	response to water deprivation
+AT1G74920	response to water deprivation
+AT1G74920	response to water deprivation
+AT1G76080	response to water deprivation
+AT1G76080	response to water deprivation
+AT1G77120	response to water deprivation
+AT1G77120	response to water deprivation
+AT1G77120	response to water deprivation
+AT1G77120	response to water deprivation
+AT1G78080	response to water deprivation
+AT1G78080	response to water deprivation
+AT1G78080	response to water deprivation
+AT1G78080	response to water deprivation
+AT1G78080	response to water deprivation
+AT1G78080	response to water deprivation
+AT1G78380	cellular response to water deprivation
+AT1G78380	cellular response to water deprivation
+AT1G78380	cellular response to water deprivation
+AT1G79410	cellular response to water deprivation
+AT1G79410	cellular response to water deprivation
+AT1G79410	cellular response to water deprivation
+AT1G79600	response to water deprivation
+AT1G79600	response to water deprivation
+AT1G80410	response to water deprivation
+AT1G80410	response to water deprivation
+AT1G80710	response to water deprivation
+AT1G80710	response to water deprivation
+AT2G01830	response to water deprivation
+AT2G01830	response to water deprivation
+AT2G04030	response to water deprivation
+AT2G04030	response to water deprivation
+AT2G05620	response to water deprivation
+AT2G05620	response to water deprivation
+AT2G14610	response to water deprivation
+AT2G14610	response to water deprivation
+AT2G15970	cellular response to water deprivation
+AT2G15970	cellular response to water deprivation
+AT2G15970	cellular response to water deprivation
+AT2G17820	response to water deprivation
+AT2G17820	response to water deprivation
+AT2G17820	response to water deprivation
+AT2G17820	response to water deprivation
+AT2G17820	response to water deprivation
+AT2G17820	response to water deprivation
+AT2G17840	response to water deprivation
+AT2G17840	response to water deprivation
+AT2G18050	response to water deprivation
+AT2G18050	response to water deprivation
+AT2G18960	response to water deprivation
+AT2G18960	response to water deprivation
+AT2G20880	regulation of response to water deprivation
+AT2G20880	regulation of response to water deprivation
+AT2G20890	regulation of response to water deprivation
+AT2G20890	regulation of response to water deprivation
+AT2G21490	response to water deprivation
+AT2G21490	response to water deprivation
+AT2G21660	response to water deprivation
+AT2G21660	response to water deprivation
+AT2G22430	response to water deprivation
+AT2G22430	response to water deprivation
+AT2G25180	response to water deprivation
+AT2G25180	response to water deprivation
+AT2G25180	response to water deprivation
+AT2G25180	response to water deprivation
+AT2G26650	response to water deprivation
+AT2G26650	response to water deprivation
+AT2G26740	response to water deprivation
+AT2G26740	response to water deprivation
+AT2G28625	response to water deprivation
+AT2G28625	response to water deprivation
+AT2G28740	response to water deprivation
+AT2G28740	response to water deprivation
+AT2G29130	response to water deprivation
+AT2G29130	response to water deprivation
+AT2G29130	response to water deprivation
+AT2G29130	response to water deprivation
+AT2G30580	response to water deprivation
+AT2G30580	response to water deprivation
+AT2G30870	response to water deprivation
+AT2G30870	response to water deprivation
+AT2G31470	cellular response to water deprivation
+AT2G31470	cellular response to water deprivation
+AT2G31470	cellular response to water deprivation
+AT2G31470	response to water deprivation
+AT2G31470	response to water deprivation
+AT2G31870	response to water deprivation
+AT2G31870	response to water deprivation
+AT2G32273	response to water deprivation
+AT2G32273	response to water deprivation
+AT2G32700	response to water deprivation
+AT2G32700	response to water deprivation
+AT2G33230	response to water deprivation
+AT2G33230	response to water deprivation
+AT2G33590	response to water deprivation
+AT2G33590	response to water deprivation
+AT2G33700	response to water deprivation
+AT2G33700	response to water deprivation
+AT2G34208	response to water deprivation
+AT2G34208	response to water deprivation
+AT2G35300	response to water deprivation
+AT2G35300	response to water deprivation
+AT2G35930	response to water deprivation
+AT2G35930	response to water deprivation
+AT2G36270	response to water deprivation
+AT2G36270	response to water deprivation
+AT2G37170	response to water deprivation
+AT2G37170	response to water deprivation
+AT2G37180	response to water deprivation
+AT2G37180	response to water deprivation
+AT2G37760	response to water deprivation
+AT2G37760	response to water deprivation
+AT2G37760	response to water deprivation
+AT2G37760	response to water deprivation
+AT2G37770	response to water deprivation
+AT2G37770	response to water deprivation
+AT2G37770	response to water deprivation
+AT2G37770	response to water deprivation
+AT2G38340	response to water deprivation
+AT2G38340	response to water deprivation
+AT2G38470	response to water deprivation
+AT2G38470	response to water deprivation
+AT2G38530	response to water deprivation
+AT2G38530	response to water deprivation
+AT2G38750	response to water deprivation
+AT2G38750	response to water deprivation
+AT2G38760	response to water deprivation
+AT2G38760	response to water deprivation
+AT2G38880	response to water deprivation
+AT2G38880	response to water deprivation
+AT2G39550	response to water deprivation
+AT2G39550	response to water deprivation
+AT2G39800	response to water deprivation
+AT2G39800	response to water deprivation
+AT2G39800	response to water deprivation
+AT2G39800	response to water deprivation
+AT2G39800	response to water deprivation
+AT2G39800	response to water deprivation
+AT2G40220	response to water deprivation
+AT2G40220	response to water deprivation
+AT2G40880	response to water deprivation
+AT2G40880	response to water deprivation
+AT2G41010	response to water deprivation
+AT2G41010	response to water deprivation
+AT2G41225	regulation of response to water deprivation
+AT2G41225	regulation of response to water deprivation
+AT2G41230	regulation of response to water deprivation
+AT2G41230	regulation of response to water deprivation
+AT2G41240	response to water deprivation
+AT2G41240	response to water deprivation
+AT2G41430	response to water deprivation
+AT2G41430	response to water deprivation
+AT2G42540	response to water deprivation
+AT2G42540	response to water deprivation
+AT2G42540	response to water deprivation
+AT2G42540	response to water deprivation
+AT2G42620	positive regulation of response to water deprivation
+AT2G42620	positive regulation of response to water deprivation
+AT2G42620	response to water deprivation
+AT2G42620	response to water deprivation
+AT2G43350	cellular response to water deprivation
+AT2G43350	cellular response to water deprivation
+AT2G43350	cellular response to water deprivation
+AT2G43350	cellular response to water deprivation
+AT2G43350	cellular response to water deprivation
+AT2G43350	cellular response to water deprivation
+AT2G45960	response to water deprivation
+AT2G45960	response to water deprivation
+AT2G45960	response to water deprivation
+AT2G45960	response to water deprivation
+AT2G46680	response to water deprivation
+AT2G46680	response to water deprivation
+AT2G47180	response to water deprivation
+AT2G47180	response to water deprivation
+AT2G47190	response to water deprivation
+AT2G47190	response to water deprivation
+AT2G47190	response to water deprivation
+AT2G47190	response to water deprivation
+AT2G47780	positive regulation of response to water deprivation
+AT2G47780	positive regulation of response to water deprivation
+AT2G47800	response to water deprivation
+AT2G47800	response to water deprivation
+AT3G01650	negative regulation of response to water deprivation
+AT3G01650	negative regulation of response to water deprivation
+AT3G02130	response to water deprivation
+AT3G02130	response to water deprivation
+AT3G02480	response to water deprivation
+AT3G02480	response to water deprivation
+AT3G03740	cellular response to water deprivation
+AT3G03740	cellular response to water deprivation
+AT3G03740	cellular response to water deprivation
+AT3G05500	positive regulation of response to water deprivation
+AT3G05500	positive regulation of response to water deprivation
+AT3G05640	response to water deprivation
+AT3G05640	response to water deprivation
+AT3G05700	response to water deprivation
+AT3G05700	response to water deprivation
+AT3G05700	response to water deprivation
+AT3G05700	response to water deprivation
+AT3G05740	cellular response to water deprivation
+AT3G05740	cellular response to water deprivation
+AT3G05740	cellular response to water deprivation
+AT3G06010	response to water deprivation
+AT3G06010	response to water deprivation
+AT3G06190	cellular response to water deprivation
+AT3G06190	cellular response to water deprivation
+AT3G06190	cellular response to water deprivation
+AT3G06760	response to water deprivation
+AT3G06760	response to water deprivation
+AT3G08770	response to water deprivation
+AT3G08770	response to water deprivation
+AT3G09940	response to water deprivation
+AT3G09940	response to water deprivation
+AT3G11020	response to water deprivation
+AT3G11020	response to water deprivation
+AT3G11410	response to water deprivation
+AT3G11410	response to water deprivation
+AT3G11410	response to water deprivation
+AT3G11410	response to water deprivation
+AT3G12490	response to water deprivation
+AT3G12490	response to water deprivation
+AT3G12630	response to water deprivation
+AT3G12630	response to water deprivation
+AT3G14080	response to water deprivation
+AT3G14080	response to water deprivation
+AT3G14440	response to water deprivation
+AT3G14440	response to water deprivation
+AT3G15500	response to water deprivation
+AT3G15500	response to water deprivation
+AT3G16857	response to water deprivation
+AT3G16857	response to water deprivation
+AT3G16857	response to water deprivation
+AT3G16857	response to water deprivation
+AT3G16857	response to water deprivation
+AT3G16857	response to water deprivation
+AT3G16857	response to water deprivation
+AT3G16857	response to water deprivation
+AT3G18490	response to water deprivation
+AT3G18490	response to water deprivation
+AT3G19290	response to water deprivation
+AT3G19290	response to water deprivation
+AT3G19580	response to water deprivation
+AT3G19580	response to water deprivation
+AT3G19600	response to water deprivation
+AT3G19600	response to water deprivation
+AT3G20310	response to water deprivation
+AT3G20310	response to water deprivation
+AT3G20660	cellular response to water deprivation
+AT3G20660	cellular response to water deprivation
+AT3G20660	cellular response to water deprivation
+AT3G22310	response to water deprivation
+AT3G22310	response to water deprivation
+AT3G22380	response to water deprivation
+AT3G22380	response to water deprivation
+AT3G23050	response to water deprivation
+AT3G23050	response to water deprivation
+AT3G23830	response to water deprivation
+AT3G23830	response to water deprivation
+AT3G23920	response to water deprivation
+AT3G23920	response to water deprivation
+AT3G24500	response to water deprivation
+AT3G24500	response to water deprivation
+AT3G26090	response to water deprivation
+AT3G26090	response to water deprivation
+AT3G26830	response to water deprivation
+AT3G26830	response to water deprivation
+AT3G28270	cellular response to water deprivation
+AT3G28270	cellular response to water deprivation
+AT3G28270	cellular response to water deprivation
+AT3G29320	response to water deprivation
+AT3G29320	response to water deprivation
+AT3G30775	response to water deprivation
+AT3G30775	response to water deprivation
+AT3G45140	response to water deprivation
+AT3G45140	response to water deprivation
+AT3G46620	response to water deprivation
+AT3G46620	response to water deprivation
+AT3G46930	response to water deprivation
+AT3G46930	response to water deprivation
+AT3G46970	response to water deprivation
+AT3G46970	response to water deprivation
+AT3G47860	response to water deprivation
+AT3G47860	response to water deprivation
+AT3G48170	response to water deprivation
+AT3G48170	response to water deprivation
+AT3G50310	response to water deprivation
+AT3G50310	response to water deprivation
+AT3G50500	response to water deprivation
+AT3G50500	response to water deprivation
+AT3G50970	response to water deprivation
+AT3G50970	response to water deprivation
+AT3G50980	response to water deprivation
+AT3G50980	response to water deprivation
+AT3G51920	response to water deprivation
+AT3G51920	response to water deprivation
+AT3G52450	response to water deprivation
+AT3G52450	response to water deprivation
+AT3G53420	response to water deprivation
+AT3G53420	response to water deprivation
+AT3G54770	response to water deprivation
+AT3G54770	response to water deprivation
+AT3G55530	response to water deprivation
+AT3G55530	response to water deprivation
+AT3G56580	response to water deprivation
+AT3G56580	response to water deprivation
+AT3G56580	regulation of response to water deprivation
+AT3G56580	regulation of response to water deprivation
+AT3G59380	response to water deprivation
+AT3G59380	response to water deprivation
+AT3G61050	response to water deprivation
+AT3G61050	response to water deprivation
+AT3G61430	response to water deprivation
+AT3G61430	response to water deprivation
+AT3G61890	response to water deprivation
+AT3G61890	response to water deprivation
+AT3G62770	response to water deprivation
+AT3G62770	response to water deprivation
+AT3G62770	response to water deprivation
+AT3G62770	response to water deprivation
+AT3G63060	response to water deprivation
+AT3G63060	response to water deprivation
+AT3G63520	response to water deprivation
+AT3G63520	response to water deprivation
+AT4G00430	response to water deprivation
+AT4G00430	response to water deprivation
+AT4G01420	response to water deprivation
+AT4G01420	response to water deprivation
+AT4G02200	response to water deprivation
+AT4G02200	response to water deprivation
+AT4G02280	response to water deprivation
+AT4G02280	response to water deprivation
+AT4G02380	cellular response to water deprivation
+AT4G02380	cellular response to water deprivation
+AT4G02380	cellular response to water deprivation
+AT4G02380	response to water deprivation
+AT4G02380	response to water deprivation
+AT4G04330	response to water deprivation
+AT4G04330	response to water deprivation
+AT4G05590	regulation of response to water deprivation
+AT4G05590	regulation of response to water deprivation
+AT4G06634	response to water deprivation
+AT4G06634	response to water deprivation
+AT4G08920	response to water deprivation
+AT4G08920	response to water deprivation
+AT4G11890	response to water deprivation
+AT4G11890	response to water deprivation
+AT4G13850	response to water deprivation
+AT4G13850	response to water deprivation
+AT4G14300	regulation of response to water deprivation
+AT4G14300	regulation of response to water deprivation
+AT4G15910	response to water deprivation
+AT4G15910	response to water deprivation
+AT4G15910	response to water deprivation
+AT4G15910	response to water deprivation
+AT4G17615	response to water deprivation
+AT4G17615	response to water deprivation
+AT4G18780	response to water deprivation
+AT4G18780	response to water deprivation
+AT4G20260	response to water deprivation
+AT4G20260	response to water deprivation
+AT4G23450	response to water deprivation
+AT4G23450	response to water deprivation
+AT4G24020	response to water deprivation
+AT4G24020	response to water deprivation
+AT4G24190	response to water deprivation
+AT4G24190	response to water deprivation
+AT4G24275	response to water deprivation
+AT4G24275	response to water deprivation
+AT4G24960	response to water deprivation
+AT4G24960	response to water deprivation
+AT4G25480	response to water deprivation
+AT4G25480	response to water deprivation
+AT4G25480	response to water deprivation
+AT4G25480	response to water deprivation
+AT4G25490	response to water deprivation
+AT4G25490	response to water deprivation
+AT4G26070	response to water deprivation
+AT4G26070	response to water deprivation
+AT4G27410	response to water deprivation
+AT4G27410	response to water deprivation
+AT4G27410	response to water deprivation
+AT4G27410	response to water deprivation
+AT4G28680	response to water deprivation
+AT4G28680	response to water deprivation
+AT4G30960	response to water deprivation
+AT4G30960	response to water deprivation
+AT4G31390	response to water deprivation
+AT4G31390	response to water deprivation
+AT4G31920	response to water deprivation
+AT4G31920	response to water deprivation
+AT4G31920	response to water deprivation
+AT4G31920	response to water deprivation
+AT4G32551	response to water deprivation
+AT4G32551	response to water deprivation
+AT4G33950	response to water deprivation
+AT4G33950	response to water deprivation
+AT4G33950	response to water deprivation
+AT4G33950	response to water deprivation
+AT4G33950	response to water deprivation
+AT4G33950	response to water deprivation
+AT4G33950	response to water deprivation
+AT4G33950	response to water deprivation
+AT4G34000	response to water deprivation
+AT4G34000	response to water deprivation
+AT4G34100	response to water deprivation
+AT4G34100	response to water deprivation
+AT4G34220	cellular response to water deprivation
+AT4G34220	cellular response to water deprivation
+AT4G34220	cellular response to water deprivation
+AT4G34240	response to water deprivation
+AT4G34240	response to water deprivation
+AT4G34890	response to water deprivation
+AT4G34890	response to water deprivation
+AT4G36020	response to water deprivation
+AT4G36020	response to water deprivation
+AT4G37790	response to water deprivation
+AT4G37790	response to water deprivation
+AT4G37840	response to water deprivation
+AT4G37840	response to water deprivation
+AT4G38680	response to water deprivation
+AT4G38680	response to water deprivation
+AT4G39090	response to water deprivation
+AT4G39090	response to water deprivation
+AT4G39730	response to water deprivation
+AT4G39730	response to water deprivation
+AT4G39950	response to water deprivation
+AT4G39950	response to water deprivation
+AT5G03740	response to water deprivation
+AT5G03740	response to water deprivation
+AT5G04280	response to water deprivation
+AT5G04280	response to water deprivation
+AT5G05410	response to water deprivation
+AT5G05410	response to water deprivation
+AT5G05410	response to water deprivation
+AT5G05410	response to water deprivation
+AT5G05860	cellular response to water deprivation
+AT5G05860	cellular response to water deprivation
+AT5G05860	cellular response to water deprivation
+AT5G06530	response to water deprivation
+AT5G06530	response to water deprivation
+AT5G06760	response to water deprivation
+AT5G06760	response to water deprivation
+AT5G07690	regulation of response to water deprivation
+AT5G07690	response to water deprivation
+AT5G07690	regulation of response to water deprivation
+AT5G07690	response to water deprivation
+AT5G07690	regulation of response to water deprivation
+AT5G07690	regulation of response to water deprivation
+AT5G07700	response to water deprivation
+AT5G07700	response to water deprivation
+AT5G08120	response to water deprivation
+AT5G08120	response to water deprivation
+AT5G08490	response to water deprivation
+AT5G08490	response to water deprivation
+AT5G08520	response to water deprivation
+AT5G08520	response to water deprivation
+AT5G08620	response to water deprivation
+AT5G08620	response to water deprivation
+AT5G10220	response to water deprivation
+AT5G10220	response to water deprivation
+AT5G10230	response to water deprivation
+AT5G10230	response to water deprivation
+AT5G11270	response to water deprivation
+AT5G11270	response to water deprivation
+AT5G11270	response to water deprivation
+AT5G11270	response to water deprivation
+AT5G12140	cellular response to water deprivation
+AT5G12140	cellular response to water deprivation
+AT5G12140	cellular response to water deprivation
+AT5G12380	response to water deprivation
+AT5G12380	response to water deprivation
+AT5G13330	response to water deprivation
+AT5G13330	response to water deprivation
+AT5G13750	response to water deprivation
+AT5G13750	response to water deprivation
+AT5G13750	response to water deprivation
+AT5G13750	response to water deprivation
+AT5G13780	response to water deprivation
+AT5G13780	response to water deprivation
+AT5G14420	negative regulation of response to water deprivation
+AT5G14420	negative regulation of response to water deprivation
+AT5G15960	response to water deprivation
+AT5G15960	response to water deprivation
+AT5G15960	response to water deprivation
+AT5G15960	response to water deprivation
+AT5G15970	response to water deprivation
+AT5G15970	response to water deprivation
+AT5G15970	response to water deprivation
+AT5G15970	response to water deprivation
+AT5G17960	response to water deprivation
+AT5G17960	response to water deprivation
+AT5G18320	cellular response to water deprivation
+AT5G18320	cellular response to water deprivation
+AT5G18320	cellular response to water deprivation
+AT5G19000	cellular response to water deprivation
+AT5G19000	cellular response to water deprivation
+AT5G19000	cellular response to water deprivation
+AT5G20510	response to water deprivation
+AT5G20510	response to water deprivation
+AT5G20830	response to water deprivation
+AT5G20830	response to water deprivation
+AT5G21010	cellular response to water deprivation
+AT5G21010	cellular response to water deprivation
+AT5G21010	cellular response to water deprivation
+AT5G23010	response to water deprivation
+AT5G23010	response to water deprivation
+AT5G24030	response to water deprivation
+AT5G24030	response to water deprivation
+AT5G24090	cellular response to water deprivation
+AT5G24090	cellular response to water deprivation
+AT5G24090	cellular response to water deprivation
+AT5G25370	response to water deprivation
+AT5G25370	response to water deprivation
+AT5G26340	response to water deprivation
+AT5G26340	response to water deprivation
+AT5G26990	response to water deprivation
+AT5G26990	response to water deprivation
+AT5G27620	regulation of response to water deprivation
+AT5G27620	response to water deprivation
+AT5G27620	response to water deprivation
+AT5G27620	regulation of response to water deprivation
+AT5G27620	response to water deprivation
+AT5G27620	response to water deprivation
+AT5G35750	response to water deprivation
+AT5G35750	response to water deprivation
+AT5G37500	response to water deprivation
+AT5G37500	response to water deprivation
+AT5G38710	response to water deprivation
+AT5G38710	response to water deprivation
+AT5G40010	response to water deprivation
+AT5G40010	response to water deprivation
+AT5G40280	response to water deprivation
+AT5G40280	response to water deprivation
+AT5G40390	response to water deprivation
+AT5G40390	response to water deprivation
+AT5G44650	response to water deprivation
+AT5G44650	response to water deprivation
+AT5G45340	response to water deprivation
+AT5G45340	response to water deprivation
+AT5G45340	response to water deprivation
+AT5G45340	response to water deprivation
+AT5G47100	response to water deprivation
+AT5G47100	response to water deprivation
+AT5G47120	response to water deprivation
+AT5G47120	response to water deprivation
+AT5G48870	response to water deprivation
+AT5G48870	response to water deprivation
+AT5G49230	response to water deprivation
+AT5G49230	response to water deprivation
+AT5G49630	response to water deprivation
+AT5G49630	response to water deprivation
+AT5G50720	response to water deprivation
+AT5G50720	response to water deprivation
+AT5G52050	regulation of response to water deprivation
+AT5G52050	regulation of response to water deprivation
+AT5G52300	response to water deprivation
+AT5G52300	response to water deprivation
+AT5G52300	response to water deprivation
+AT5G52300	response to water deprivation
+AT5G52300	response to water deprivation
+AT5G52300	response to water deprivation
+AT5G52310	response to water deprivation
+AT5G52310	response to water deprivation
+AT5G52310	response to water deprivation
+AT5G52310	response to water deprivation
+AT5G52310	response to water deprivation
+AT5G52310	response to water deprivation
+AT5G52310	response to water deprivation
+AT5G52310	response to water deprivation
+AT5G52310	response to water deprivation
+AT5G52310	response to water deprivation
+AT5G52310	response to water deprivation
+AT5G52310	response to water deprivation
+AT5G52310	response to water deprivation
+AT5G52310	response to water deprivation
+AT5G52440	regulation of response to water deprivation
+AT5G52440	regulation of response to water deprivation
+AT5G56030	response to water deprivation
+AT5G56030	response to water deprivation
+AT5G57050	response to water deprivation
+AT5G57050	response to water deprivation
+AT5G58070	response to water deprivation
+AT5G58070	response to water deprivation
+AT5G58430	response to water deprivation
+AT5G58430	response to water deprivation
+AT5G58670	response to water deprivation
+AT5G58670	response to water deprivation
+AT5G58787	positive regulation of response to water deprivation
+AT5G58787	positive regulation of response to water deprivation
+AT5G59220	response to water deprivation
+AT5G59220	response to water deprivation
+AT5G59310	response to water deprivation
+AT5G59310	response to water deprivation
+AT5G59310	response to water deprivation
+AT5G59310	response to water deprivation
+AT5G59320	response to water deprivation
+AT5G59320	response to water deprivation
+AT5G59550	response to water deprivation
+AT5G59550	response to water deprivation
+AT5G60410	response to water deprivation
+AT5G60410	response to water deprivation
+AT5G60410	regulation of response to water deprivation
+AT5G60410	regulation of response to water deprivation
+AT5G61590	response to water deprivation
+AT5G61590	response to water deprivation
+AT5G62470	response to water deprivation
+AT5G62470	response to water deprivation
+AT5G63850	response to water deprivation
+AT5G63850	response to water deprivation
+AT5G63980	response to water deprivation
+AT5G63980	response to water deprivation
+AT5G63980	response to water deprivation
+AT5G63980	response to water deprivation
+AT5G64010	response to water deprivation
+AT5G64010	response to water deprivation
+AT5G65020	response to water deprivation
+AT5G65020	response to water deprivation
+AT5G65730	response to water deprivation
+AT5G65730	response to water deprivation
+AT5G66400	response to water deprivation
+AT5G66400	response to water deprivation
+AT5G66880	response to water deprivation
+AT5G66880	response to water deprivation
+AT5G67030	response to water deprivation
+AT5G67030	response to water deprivation
+AT5G67030	response to water deprivation
+AT5G67030	response to water deprivation
+AT5G67300	response to water deprivation
+AT5G67300	response to water deprivation
+HAS1	response to water deprivation
+HAS1	response to water deprivation
+HAS3	response to water deprivation
+HAS3	response to water deprivation
+LWR1	response to water deprivation
+LWR1	response to water deprivation
+LWR2	response to water deprivation
+LWR2	response to water deprivation
